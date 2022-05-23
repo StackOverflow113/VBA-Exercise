@@ -1,0 +1,12 @@
+C:\Users\narut\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\bin\Debug\BaseDatosExcelVB.exe.config
+C:\Users\narut\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\bin\Debug\BaseDatosExcelVB.exe
+C:\Users\narut\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\bin\Debug\BaseDatosExcelVB.pdb
+C:\Users\narut\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\bin\Debug\BaseDatosExcelVB.xml
+C:\Users\narut\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\VBA Exercise.vbproj.AssemblyReference.cache
+C:\Users\narut\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.ClienteForm.resources
+C:\Users\narut\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.Resources.resources
+C:\Users\narut\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\VBA Exercise.vbproj.GenerateResource.cache
+C:\Users\narut\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\VBA Exercise.vbproj.CoreCompileInputs.cache
+C:\Users\narut\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.exe
+C:\Users\narut\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.xml
+C:\Users\narut\Downloads\BaseDatosExcelVB\BaseDatosExcelVB\BaseDatosExcelVB\obj\Debug\BaseDatosExcelVB.pdb
