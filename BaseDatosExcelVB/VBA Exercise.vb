@@ -32,6 +32,7 @@ Public Class ClienteForm
   End Sub
   Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
     Llenar()
+    Format(DateTimePicker1.Value, "MM/dd/yyyy")
   End Sub
 
   Private Sub LlenaTexto()
